@@ -11,15 +11,19 @@ Table of Content
 
 Package should be placed in a folder with the following folders and files:
 
-   i) A folder with the name of your package that contains    
+   I). A folder with the name of your package that contains    
       
       a) the Python code that makes up the package
-      b) a README.md file
-      c) an __init__.py 
-      d) license.txt
-      e) setup.cfg
+         prob_dist_ap folder contains following files
+              i). README.md file: Descriptio
+              ii). __init__.py 
+              iii). license.txt
+              iv). setup.cfg
+              v). Generaldistribution.py
+              vi). Gaussiandistribution.py
+              vii). Binomial Distribution.py 
 
-   ii) setup.py file
+   II).  setup.py file
    
 2) Upload Package
 
