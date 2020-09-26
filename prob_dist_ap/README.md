@@ -1,7 +1,7 @@
-#Gaussian and Binomial Probability distribution package (prob_dist_ap)
+## Gaussian and Binomial Probability distribution package (prob_dist_ap)
 
 
-Summary of the package
+## Summary of the package
 
 
 #Files
