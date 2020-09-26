@@ -20,3 +20,10 @@
 
 ## Explanation of the files
 
+i). __init__.py: Contains Binomialdistribution.py and Gaussiandistribution.py; codes to execute when the modelue is loaded
+ii). license.txt: License
+iii). setup.cfg: Name of metadata file used in the code
+iv). Generaldistribution.py: Generic python class for distribution
+v). Gaussiandistribution.py: Gaussian class
+vi). Binomialdistribution.py: Binomial class 
+
