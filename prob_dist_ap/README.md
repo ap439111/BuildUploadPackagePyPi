@@ -4,7 +4,7 @@
 ## Summary of the package
 
 
-#Files
+## Files
 
 i). __init__.py 
 ii). license.txt
@@ -13,6 +13,6 @@ iv). Generaldistribution.py
 v). Gaussiandistribution.py
 vi). Binomial Distribution.py 
 
-Explanation of the files
+## Explanation of the files
 
-Installations
+## Installations
