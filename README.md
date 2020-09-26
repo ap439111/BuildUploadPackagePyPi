@@ -6,7 +6,7 @@ Table of Content
 1. Files 
 2. Upload Package
 
-1. Files
+1) Files
 
 Package should be placed in a folder with the following folders and files:
 
