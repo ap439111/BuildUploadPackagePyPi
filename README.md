@@ -10,13 +10,13 @@ Table of Content
 
 Package should be placed in a folder with the following folders and files:
 
-   i). A folder with the name of your package that contains    
-      a) the Python code that makes up the package
+   i) A folder with the name of your package that contains    
       
+      a) the Python code that makes up the package
       b) a README.md file
       c) an __init__.py 
       d) license.txt
       e) setup.cfg
 
-    ii). setup.py file
+   ii) setup.py file
 
