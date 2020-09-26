@@ -20,4 +20,3 @@
 
 ## Explanation of the files
 
-## Installations
