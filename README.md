@@ -15,12 +15,19 @@ Package should be placed in a folder with the following folders and files:
       
       a) the Python code that makes up the package
          prob_dist_ap folder contains following files
-              i). README.md file: Descriptio
+         
+               i). README.md file: Description
+               
               ii). __init__.py 
+              
               iii). license.txt
+              
               iv). setup.cfg
+              
               v). Generaldistribution.py
+              
               vi). Gaussiandistribution.py
+              
               vii). Binomial Distribution.py 
 
    II).  setup.py file
